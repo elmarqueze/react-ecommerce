@@ -3,4 +3,5 @@ I made my best in this project with a little differences, for example: Instead I
 
 *Aditional, I fetch the API location to address the people in the checkout section. To finish, I setup the mobile view as well, that's it!
 
+Watch the deployed project here:https://react-ecommerce-coderhouse.netlify.app/
 ## Thank You!
